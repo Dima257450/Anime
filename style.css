@@ -1,0 +1,671 @@
+.fon{
+    background-image: url(images/fon.jpg);
+    height: 41vh;
+    position: relative;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size:cover;
+    opacity: 0.8;
+}
+
+.sb-background{
+    margin-top: 0.3px;
+    background-color: #212121;
+    width: 100%;
+    height: 31vh;
+    position: absolute;
+}
+
+.Privet{
+    color: blanchedalmond;
+    font-size: 20px;
+    margin-left: 49.5%;
+    margin-top: -6%;
+}
+
+.Ikonka{
+    border-radius: 100%;
+    margin-left: 41%;
+    border: 4px solid #b8e2f7;
+    width: 150px;
+    height: 150px;
+    margin-top: 65px;
+}
+
+.container{ /* блок для выравнивая содержимого */
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding-top: 40vh;
+}
+
+                /* Поиск */
+
+.head{
+    background-color: #212124;
+    align-items: flex-start;
+    display: flex;
+    color: blanchedalmond;
+    padding-top: 10vh;
+}
+
+#scroll{
+    position: absolute;
+    margin-left: 0px;
+    margin-top: 10px;
+    text-decoration:none;
+    font-size: 22px;
+    color:aliceblue;
+    white-space: nowrap;
+    border-radius: 100px;
+    height: 40px;
+    line-height: 40px;
+    background-image: linear-gradient(80deg, #e7e8e4, #121212, #cb053e);
+    width: 100%;
+    text-align: center;
+}
+
+#scroll1{
+    position: absolute;
+    margin-left: 0px;
+    margin-top: 60px;
+    text-decoration:none;
+    font-size: 22px;
+    color:aliceblue;
+    white-space: nowrap;
+    border-radius: 100px;
+    height: 40px;
+    line-height: 40px;
+    background-image: linear-gradient(280deg, #e7e8e4, #121212, #cb053e);
+    width: 100%;
+    text-align: center;
+}
+
+#scroll2{
+    position: absolute;
+    margin-left: 0px;
+    margin-top: 110px;
+    text-decoration:none;
+    font-size: 22px;
+    color:aliceblue;
+    white-space: nowrap;
+    border-radius: 100px;
+    height: 40px;
+    line-height: 40px;
+    background-image: linear-gradient(80deg, #e7e8e4, #121212, #cb053e);
+    width: 100%;
+    text-align: center;
+}
+
+#scroll3{
+    position: absolute;
+    margin-left: 0px;
+    margin-top: 160px;
+    text-decoration:none;
+    font-size: 22px;
+    color:aliceblue;
+    white-space: nowrap;
+    border-radius: 100px;
+    height: 40px;
+    line-height: 40px;
+    background-image: linear-gradient(280deg, #e7e8e4, #121212, #cb053e);
+    width: 100%;
+    text-align: center;
+}
+
+#scroll4{
+    position: absolute;
+    margin-left: 0px;
+    margin-top: 210px;
+    text-decoration:none;
+    font-size: 22px;
+    color:aliceblue;
+    white-space: nowrap;
+    border-radius: 100px;
+    height: 40px;
+    line-height: 40px;
+    background-image: linear-gradient(80deg, #e7e8e4, #121212, #cb053e);
+    width: 100%;
+    text-align: center;
+}
+
+#scroll5{
+    position: absolute;
+    margin-left: 0px;
+    margin-top: 260px;
+    text-decoration:none;
+    font-size: 22px;
+    color:aliceblue;
+    white-space: nowrap;
+    border-radius: 100px;
+    height: 40px;
+    line-height: 40px;
+    background-image: linear-gradient(280deg, #e7e8e4, #121212, #cb053e);
+    width: 100%;
+    text-align: center;
+}
+
+#scroll6{
+    position: absolute;
+    margin-left: 0px;
+    margin-top: 310px;
+    text-decoration:none;
+    font-size: 22px;
+    color:aliceblue;
+    white-space: nowrap;
+    border-radius: 100px;
+    height: 40px;
+    line-height: 40px;
+    background-image: linear-gradient(80deg, #e7e8e4, #121212, #cb053e);
+    width: 100%;
+    text-align: center;
+}
+          /* Аниме */
+
+.Dr-STONE {
+    height: 50vh;
+    width: 100%;
+    margin-top: 300px;
+    margin-left: -10px;
+    background-image: url(images/Dr.Stone.png);
+    position: relative;
+    background-size: cover;
+    border-radius: 50px;
+    opacity: 0.8;
+}
+
+
+.hxh{
+    height: 50vh;
+    width: 100%;
+    margin-left: -10px;
+    background-image: url(images/hunter.jpg);
+    position: relative;
+    background-size: cover;
+    border-radius: 50px;
+    opacity: 0.8;
+}
+.Greatest-Demon-Lord{
+    height: 50vh;
+    width: 100%;
+    margin-left: -10px;
+    background-image: url(images/Iruma.jpg);
+    position: relative;
+    background-size: cover;
+    border-radius: 50px;
+    opacity: 0.8;
+}
+.Datta-slime{
+    height: 50vh;
+    width: 100%;
+    margin-left: -10px;
+    background-image: url(images/Slime-Datta.png);
+    position: relative;
+    background-size: cover;
+    border-radius: 50px;
+    opacity: 0.8;
+}
+.the-Shield-Hero{
+    height: 50vh;
+    width: 100%;
+    margin-left: -10px;
+    background-image: url(images/Shield-Hero.png);
+    position: relative;
+    background-size: cover;
+    border-radius: 50px;
+    opacity: 0.8;
+}
+.Kimetsu-no-Yaiba{
+    height: 50vh;
+    width: 100%;
+    margin-left: -10px;
+    background-image: url(images/Kimetsu-no-Yaiba.png);
+    position: relative;
+    background-size: cover;
+    border-radius: 50px;
+    opacity: 0.8;
+}
+.No-Game-No-Life{
+    height: 50vh;
+    width: 100%;
+    margin-left: -10px;
+    background-image: url(images/No-Game-No-Life.jpg);
+    position: relative;
+    background-size: cover;
+    border-radius: 50px;
+    opacity: 0.8;
+}
+
+.Stoun {
+    color: #08ec2ee7;
+    font-size: 30px;
+}
+a{
+    color: #111;
+}
+.A1 {
+    white-space: nowrap;
+    border-radius: 100px;
+    height: 48px;
+    line-height: 48px;
+    margin-bottom: 0px;
+    color: #fff;
+    background-color: #111;
+    width: 14vh;
+    text-align: center;
+    margin-left: 350px;
+    margin-top: -79px;
+}
+.AnimeShinS{
+    position: absolute;
+    margin-left: 50%;
+    top: 45%;
+    margin-bottom: 60px;
+    animation: An 2s ease-in-out infinite alternate-reverse both;   
+}
+@keyframes An {
+    0% {
+        transform: translateY(80px);
+    }
+    100% {
+        transform: translateY(-80px);
+    }
+}
+.AnS{
+    position: relative;
+    top: -80px;
+    margin-left: -260px;
+    font-size: 60px;
+    font-family: Roboto, Arial, sans-serif;
+    background-color: #af3434;
+    background-image: linear-gradient(120deg, #af3434, #dbd80d, #d89c1b);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+                /* Анимация */
+
+.AnimeShinS{
+    position: absolute;
+    margin-left: 50%;
+    top: 45%;
+    margin-bottom: 60px;
+    animation: An 2s ease-in-out infinite alternate-reverse both;   
+}
+@keyframes An {
+    0% {
+        transform: translateY(80px);
+    }
+    100% {
+        transform: translateY(-80px);
+    }
+}
+
+#anim:before {
+    z-index: -1;
+    content:'';
+    width: 100%;
+    height: 100%;
+    border-radius: 50px;
+    border: 3px solid white;
+    box-shadow: 0px 0px 0px 2px rgb(255 8 0),inset 0px 0px 0px 2px rgb(175 52 52), 0px 0px 20px 4px rgb(255 8 0),inset 0px 0px 20px 4px rgb(175 52 52);
+    position:absolute;
+    transition: 800ms;
+    animation: neon 4s infinite;
+}
+    @keyframes neon {
+        0% {
+            box-shadow: 0px 0px 0px 2px rgb(255 8 0),inset 0px 0px 0px 2px rgb(255 8 0), 0px 0px 20px 4px rgb(255 8 0),inset 0px 0px 20px 4px rgb(255 8 0);
+        }
+        50% {
+            box-shadow: 0px 0px 0px 2px rgb(0, 0, 0),inset 0px 0px 0px 2px rgb(0, 0, 0), 0px 0px 20px 4px rgb(175 52 52),inset 0px 0px 20px 4px rgb(52, 105, 175);
+        }
+        75% {
+            box-shadow: 0px 0px 0px 2px rgb(1, 165, 88),inset 0px 0px 0px 2px rgb(175 52 52), 0px 0px 20px 4px rgb(28, 206, 28),inset 0px 0px 20px 4px rgb(175 52 52);
+        }
+        100% {
+            box-shadow: 0px 0px 0px 2px rgb(255, 8, 0),inset 0px 0px 0px 2px rgb(175 52 52), 0px 0px 20px 4px rgb(255 8 0),inset 0px 0px 20px 4px rgb(175 52 52);
+        }
+    }
+    
+                /* темная тема */
+
+.darkTheme {
+    background-color: #121212;
+    color: #fff;
+}
+
+.darkTheme header{
+    background-color: #1f1f1f;
+    color: white;
+    filter: drop-shadow(12px 14px 16px #212121);
+}
+
+.darkTheme .A{
+   color: #fac981;
+}
+
+.darkTheme .logo{
+    color: #fac981;
+}
+
+.darkTheme h1{
+    color: rgb(231, 216, 0);
+    margin-left: 500px;
+    font-size: 40px;
+    padding-top: 5px;
+}
+
+.darkTheme .line{
+   background-color: #fac981;
+}
+
+.darkTheme footer{
+    background-color: #383838;
+    color: white;
+}
+
+@media (min-width: 1400px) and (max-width: 1800px) {
+    .Ikonka{
+        width: 300px;
+        height: 300px;
+        margin-left: 15vh;
+    }
+    .Privet{
+        font-size: 35px;
+        margin-left: 40vh;
+        margin-top: -15vh;
+    }
+    #scroll{
+        margin-top: 10px;
+        font-size: 30px;
+        height: 45px;
+        width: 100%;
+    }
+    
+    #scroll1{
+        margin-top: 60px;
+        font-size: 30px;
+        height: 45px;
+        width: 100%;
+    }
+    
+    #scroll2{
+        margin-top: 110px;
+        font-size: 30px;
+        height: 45px;
+        width: 100%;
+    }
+    
+    #scroll3{
+        margin-top: 160px;
+        font-size: 30px;
+        height: 45px;
+        width: 100%;
+    }
+    
+    #scroll4{
+        margin-top: 210px;
+        font-size: 30px;
+        height: 45px;
+        width: 100%;
+    }
+    
+    #scroll5{
+        margin-top: 260px;
+        font-size: 30px;
+        height: 45px;
+        width: 100%;
+    }
+    
+    #scroll6{
+        margin-top: 310px;
+        font-size: 30px;
+        height: 45px;
+        width: 100%;
+    }
+    .darkTheme h1{
+        margin-left: 580px;
+        font-size: 55px;
+    }
+    .Stoun{
+        font-size: 45px;
+    }
+    .A1{
+        margin-top: -105px;
+        height: 55px;
+        width: 15vh;
+    }
+}
+@media (min-width: 1200px) and (max-width: 1399px) {
+    .Ikonka{
+        width: 300px;
+        height: 300px;
+        margin-left: 15vh;
+    }
+    .Privet{
+        font-size: 35px;
+        margin-left: 40vh;
+        margin-top: -15vh;
+    }
+    .darkTheme h1{
+        margin-left: 580px;
+        font-size: 55px;
+    }
+    .Stoun{
+        font-size: 45px;
+    }
+    .A1{
+        margin-top: -105px;
+        height: 55px;
+        width: 15vh;
+    }
+    #scroll{
+        margin-top: 10px;
+        font-size: 30px;
+        height: 45px;
+        width: 100%;
+    }
+    
+    #scroll1{
+        margin-top: 60px;
+        font-size: 30px;
+        height: 45px;
+        width: 100%;
+    }
+    
+    #scroll2{
+        margin-top: 110px;
+        font-size: 30px;
+        height: 45px;
+        width: 100%;
+    }
+    
+    #scroll3{
+        margin-top: 160px;
+        font-size: 30px;
+        height: 45px;
+        width: 100%;
+    }
+    
+    #scroll4{
+        margin-top: 210px;
+        font-size: 30px;
+        height: 45px;
+        width: 100%;
+    }
+    
+    #scroll5{
+        margin-top: 260px;
+        font-size: 30px;
+        height: 45px;
+        width: 100%;
+    }
+    
+    #scroll6{
+        margin-top: 310px;
+        font-size: 30px;
+        height: 45px;
+        width: 100%;
+    }
+}
+@media (min-width: 640px) and (max-width: 700px) {
+    .Ikonka{
+        margin-left: 0;   
+    }
+    .Privet{
+        margin-top: -20%;
+        margin-left: 27%;
+        font-style: 15px;
+    }
+    #scroll{
+        margin-top: 10px;
+        font-size: 20px;
+        height: 40px;
+        width: 100%;
+    }
+    
+    #scroll1{
+        margin-top: 60px;
+        font-size: 20px;
+        height: 40px;
+        width: 100%;
+    }
+    
+    #scroll2{
+        margin-top: 110px;
+        font-size: 20px;
+        height: 40px;
+        width: 100%;
+    }
+    
+    #scroll3{
+        margin-top: 160px;
+        font-size: 20px;
+        height: 45px;
+        width: 100%;
+    }
+    
+    #scroll4{
+        margin-top: 210px;
+        font-size: 20px;
+        height: 40px;
+        width: 100%;
+    }
+    
+    #scroll5{
+        margin-top: 260px;
+        font-size: 20px;
+        height: 40px;
+        width: 100%;
+    }
+    
+    #scroll6{
+        margin-top: 310px;
+        font-size: 20px;
+        height: 40px;
+        width: 100%;
+    }
+    .darkTheme h1{
+        font-size: 20px;
+        margin-left: 43vh;
+    }
+    .Stoun{
+        font-size: 17px;
+    }
+    .A1{
+        margin-top: -45px;
+        margin-left: 30vh;
+        height: 35px;
+        width: 12vh;
+        line-height: 34px;
+    }
+    .container{
+        margin-top: 12vh;
+    }
+    .Dr-STONE {
+        height: 30vh;
+        width: 100%;
+        margin-top: 300px;
+        margin-left: -10px;
+        background-image: url(images/Dr.Stone.png);
+        position: relative;
+        background-size: cover;
+        border-radius: 50px;
+        opacity: 0.8;
+    }
+    .hxh{
+        height: 30vh;
+        width: 100%;
+        margin-left: -10px;
+        background-image: url(images/hunter.jpg);
+        position: relative;
+        background-size: cover;
+        border-radius: 50px;
+        opacity: 0.8;
+    }
+    .Greatest-Demon-Lord{
+        height: 30vh;
+        width: 100%;
+        margin-left: -10px;
+        background-image: url(images/Iruma.jpg);
+        position: relative;
+        background-size: cover;
+        border-radius: 50px;
+        opacity: 0.8;
+    }
+    .Datta-slime{
+        height: 30vh;
+        width: 100%;
+        margin-left: -10px;
+        background-image: url(images/Slime-Datta.png);
+        position: relative;
+        background-size: cover;
+        border-radius: 50px;
+        opacity: 0.8;
+    }
+    .the-Shield-Hero{
+        height: 30vh;
+        width: 100%;
+        margin-left: -10px;
+        background-image: url(images/Shield-Hero.png);
+        position: relative;
+        background-size: cover;
+        border-radius: 50px;
+        opacity: 0.8;
+    }
+    .Kimetsu-no-Yaiba{
+        height: 30vh;
+        width: 100%;
+        margin-left: -10px;
+        background-image: url(images/Kimetsu-no-Yaiba.png);
+        position: relative;
+        background-size: cover;
+        border-radius: 50px;
+        opacity: 0.8;
+    }
+    .No-Game-No-Life{
+        height: 30vh;
+        width: 100%;
+        margin-left: -10px;
+        background-image: url(images/No-Game-No-Life.jpg);
+        position: relative;
+        background-size: cover;
+        border-radius: 50px;
+        opacity: 0.8;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
